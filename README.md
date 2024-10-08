@@ -4,7 +4,7 @@ an AI researcher posted this prompt. it lets Sonnet perform equal to OpenAI o1 L
 I have been told this is from an x/twitter.  I need to find the original author to credit him.
 
 ## How to use the prompt
-1) go to your favorite AI language model
+1) go to your favorite AI language model (for example, https://claude.ai and pick 3.5 sonnet)
 1) paste that long prompt in this file of this repository: sonnet-equal-to-o1-level2 
 1) Following that, enter your prompt, such as, "Write a recipe for chocolate chip cookies with walnuts" (or whatever)
 1) press Enter
