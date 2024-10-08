@@ -5,7 +5,7 @@ I have been told this is from an x/twitter.  I need to find the original author 
 
 ## How to use the prompt
 1) go to your favorite AI language model (for example, https://claude.ai and pick 3.5 sonnet)
-1) paste that long prompt in this file of this repository: sonnet-equal-to-o1-level2 
+1) paste that long prompt in this file of this same repository:  [sonnet-equal-to-o1-level2](sonnet-equal-to-o1-level2)
 1) Following that, enter your prompt, such as, "Write a recipe for chocolate chip cookies with walnuts" (or whatever)
 1) press Enter
 1) look out the window for a while
@@ -54,7 +54,9 @@ This explanation provides the correct technical terminology for angle brackets w
 <reward>0.9</reward>
 ~~~
 
+## tags used in this prompt
 By now, you can catch the patterns, and the contents between the "tags" have special meaning in the context of the tag name, which should be self-explanatory.
+Your prompt can include additional contexts enclosed by the tags.
 ~~~
 <thinking>
 Ah, I overcomplicated the request. Let me create a simple, shareable list of markdown tags with brief descriptions - perfect for a GitHub readme or quick reference.
