@@ -1,7 +1,7 @@
 # pattern-prompts
 collection of the Prompts
 an AI researcher posted this prompt. it lets Sonnet perform equal to OpenAI o1 Level 2 AI. Here is the prompt in [sonnet-equal-to-o1-level2](sonnet-equal-to-o1-level2) file.
-[This prompt is credit to Jeremy Nguyen PhD](https://x.com/JeremyNguyenPhD) posted on X.
+[This prompt is credit to Jeremy Nguyen PhD](https://x.com/JeremyNguyenPhD) posted on X.  It was was created by Philipp Schmid @_philschmid
 
 ## How to use the prompt
 1) go to your favorite AI language model (for example, https://claude.ai and pick 3.5 sonnet)
